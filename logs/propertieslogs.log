@@ -1,0 +1,40 @@
+[INFO ] 2019-09-12 20:06:00.353 [main] EventHandler - *********Staring Log Event Application :::::::1568298960347 **********
+[INFO ] 2019-09-12 20:06:00.370 [main] EventUtility - Input File: C:/Work/log.txt reading started
+[INFO ] 2019-09-12 20:06:00.663 [main] EventUtility - Input File: C:/Work/log.txt reading completed
+[INFO ] 2019-09-12 20:06:00.687 [main] EventHandlerService -  Entry details for Id :scsmbstgra Duration: 5 Host: 12345 Type: APPLICATION_LOG Alert: true
+[INFO ] 2019-09-12 20:06:00.687 [main] EventHandlerService -  Entry details for Id :scsmbstgrb Duration: 0 Host: null Type: null Alert: false
+[INFO ] 2019-09-12 20:06:00.687 [main] EventHandlerService -  Entry details for Id :scsmbstgrc Duration: 0 Host: null Type: null Alert: false
+[INFO ] 2019-09-12 20:06:00.688 [main] EventHandlerService - Calling DB to insert data 
+[INFO ] 2019-09-12 20:06:01.304 [main] ENGINE - checkpointClose start
+[INFO ] 2019-09-12 20:06:01.305 [main] ENGINE - checkpointClose synched
+[INFO ] 2019-09-12 20:06:01.427 [main] ENGINE - checkpointClose script done
+[INFO ] 2019-09-12 20:06:01.528 [main] ENGINE - checkpointClose end
+[INFO ] 2019-09-12 20:06:01.666 [main] EventHandlerService - Number of rows inserted in DB3
+[INFO ] 2019-09-12 20:06:01.667 [main] EventHandler - Successfully Added Data to Database
+[INFO ] 2019-09-12 20:54:36.771 [main] EventHandler - *********Staring Log Event Application :::::::1568301876764 **********
+[INFO ] 2019-09-12 20:54:36.778 [main] EventUtility - Input File: C:/Work/log.txt reading started
+[INFO ] 2019-09-12 20:54:37.058 [main] EventUtility - Input File: C:/Work/log.txt reading completed
+[INFO ] 2019-09-12 20:54:37.064 [main] EventHandlerService -  Entry details for Id :scsmbstgra Duration: 5 Host: 12345 Type: APPLICATION_LOG Alert: true
+[INFO ] 2019-09-12 20:54:37.064 [main] EventHandlerService -  Entry details for Id :scsmbstgrb Duration: 0 Host: null Type: null Alert: false
+[INFO ] 2019-09-12 20:54:37.064 [main] EventHandlerService -  Entry details for Id :scsmbstgrc Duration: 0 Host: null Type: null Alert: false
+[INFO ] 2019-09-12 20:54:37.065 [main] EventHandlerService - Calling DB to insert data 
+[INFO ] 2019-09-12 20:54:37.590 [main] ENGINE - checkpointClose start
+[INFO ] 2019-09-12 20:54:37.590 [main] ENGINE - checkpointClose synched
+[INFO ] 2019-09-12 20:54:37.667 [main] ENGINE - checkpointClose script done
+[INFO ] 2019-09-12 20:54:37.799 [main] ENGINE - checkpointClose end
+[INFO ] 2019-09-12 20:54:37.975 [main] EventHandlerService - Number of rows inserted in DB3
+[INFO ] 2019-09-12 20:54:37.975 [main] EventHandler - Successfully Added Data to Database
+[INFO ] 2019-09-12 20:55:52.400 [main] EventHandler - *********Staring Log Event Application :::::::1568301952393 **********
+[INFO ] 2019-09-12 20:55:52.406 [main] EventUtility - Input File: C:/Work/log.txt reading started
+[INFO ] 2019-09-12 20:55:52.669 [main] EventUtility - Input File: C:/Work/log.txt reading completed
+[INFO ] 2019-09-12 20:55:52.674 [main] EventHandlerService -  Entry details for Id :scsmbstgra Duration: 5 Host: 12345 Type: APPLICATION_LOG Alert: true
+[INFO ] 2019-09-12 20:55:52.674 [main] EventHandlerService -  Entry details for Id :scsmbstgrb Duration: 0 Host: null Type: null Alert: false
+[INFO ] 2019-09-12 20:55:52.674 [main] EventHandlerService -  Entry details for Id :scsmbstgrc Duration: 0 Host: null Type: null Alert: false
+[INFO ] 2019-09-12 20:55:52.674 [main] EventHandlerService - Calling DB to insert data 
+[INFO ] 2019-09-12 20:55:53.174 [main] ENGINE - checkpointClose start
+[INFO ] 2019-09-12 20:55:53.174 [main] ENGINE - checkpointClose synched
+[INFO ] 2019-09-12 20:55:53.462 [main] ENGINE - checkpointClose script done
+[INFO ] 2019-09-12 20:55:54.160 [main] ENGINE - checkpointClose end
+[INFO ] 2019-09-12 20:55:55.164 [main] EventHandlerService - Number of rows inserted in DB3
+[INFO ] 2019-09-12 20:55:55.164 [main] EventHandler - Successfully Added Data to Database
+[INFO ] 2019-09-12 20:55:55.164 [main] EventHandler - *********End Log Event Application :::::::1568301955164 **********
